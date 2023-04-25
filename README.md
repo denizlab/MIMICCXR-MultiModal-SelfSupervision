@@ -1,9 +1,9 @@
 # Introduction
-This repo contains pytorch-lightningimplementation of self-supervised and multi-modal learning benchmark on MIMIC-CXR as described in our paper: [Radiology Reports Improve Visual Representations Learned from Radiographs](https://openreview.net/pdf?id=S9EfOVFJIxQh). This repo is inspired by [solo-learn](https://github.com/vturrisi/solo-learn).
+This repository contains pytorch-lightning implementation of self-supervised and multi-modal learning benchmark on MIMIC-CXR as described in our paper: [Radiology Reports Improve Visual Representations Learned from Radiographs](https://openreview.net/pdf?id=S9EfOVFJIxQh). This repo is inspired by [solo-learn](https://github.com/vturrisi/solo-learn).
 
 Pipeline:
 
-<img src="https://github.com/denizlab/MIMICCXR-MutliModal-SelfSupervision/blob/main/imgs/final.png" width="500" />
+<img src="https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision/blob/main/imgs/final.png" width="500" />
 
 # **Dependency:**
 Check out our dependency at ./requirements.txt and install with
